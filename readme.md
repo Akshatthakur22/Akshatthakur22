@@ -1,11 +1,11 @@
 <!-- HERO -->
 
-<p align="center">
+<p align="center" style="height: 120 px; overflow: hidden;">
   <img src="./lights.svg" width="100%" alt="">
 </p>
 <img
   src="./image.png"
-  width="280"
+  width="190"
   align="right"
   alt="Akshat Thakur">
 <picture>
@@ -15,7 +15,7 @@
   >
   <img
     src="./name.svg"
-    width="430"
+    width="450"
     alt="Akshat Thakur"
   >
 </picture>
