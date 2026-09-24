@@ -2,23 +2,25 @@
 
 <img src="./image.png" width="200" align="right" alt="Akshat Thakur">
 
-<div style="display:flex;align-items:baseline;gap:8px;margin:0 0 12px 0;font-size:13px;color:#666">
-  <span>Software Developer</span>
-  <span>·</span>
-  <span><b>Curious by default. Practical by design.</b></span>
-</div>
+<img src="./name.svg" width="430" alt="Akshat Thakur">
 
-<div style="display:flex;align-items:center;gap:12px;margin:0 0 16px 0">
-  <a href="https://akshatt.in" style="display:inline-block"><img src="visit.svg" width="110" height="26" alt="akshatt.in" style="display:block"></a>
-  <span style="font-size:13px;color:#666">·</span>
-  <a href="https://www.linkedin.com/in/akshatthakur22/" style="font-size:13px;text-decoration:none">LinkedIn</a>
-  <span style="font-size:13px;color:#666">·</span>
-  <a href="https://github.com/Akshatthakur22" style="font-size:13px;text-decoration:none">GitHub</a>
-  <span style="font-size:13px;color:#666">·</span>
-  <a href="mailto:akshatthakur22@gmail.com" style="font-size:13px;text-decoration:none">Email</a>
-</div>
+**Software Developer**
+Curious by default. Practical by design.
 
-<p style="max-width:480px;margin:0 auto 24px;text-align:center;font-size:14px;line-height:1.6;color:#555">I build software by turning real-world problems into useful products. I learn by building: trying things, breaking them, and figuring out how the pieces fit together.</p>
+[![akshatt.in](https://img.shields.io/badge/akshatt.in-→-2f6feb?style=for-the-badge&logoColor=white)](https://akshatt.in)
+&nbsp;·&nbsp;
+[LinkedIn](https://www.linkedin.com/in/akshatthakur22/)
+&nbsp;·&nbsp;
+[GitHub](https://github.com/Akshatthakur22)
+&nbsp;·&nbsp;
+[Email](mailto:akshatthakur22@gmail.com)
+
+<br clear="right">
+
+<p>
+  I build software by turning real-world problems into useful products.
+  I learn by building: trying things, breaking them, and figuring out how the pieces fit together.
+</p>
 
 <table style="width:100%;border-collapse:collapse;margin:0 0 24px 0">
   <tr>
