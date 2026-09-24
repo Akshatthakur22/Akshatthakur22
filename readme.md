@@ -1,5 +1,5 @@
 <h1 style="display:flex;align-items:center;gap:12px;margin:0 0 4px 0;font-size:28px">
-  <img src="/Users/akshatthakur22/Desktop/open source/Akshatthakur22/ChatGPT Image Aug 3, 2026, 07_17_35 PM.png?size=96" width="48" height="48" alt="" style="border-radius:6px;flex-shrink:0">
+  <img src="/image.png" width="48" height="48" alt="" style="border-radius:6px;flex-shrink:0">
   Akshat Thakur
 </h1>
 
