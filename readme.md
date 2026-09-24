@@ -1,25 +1,41 @@
 <!-- HERO -->
 
-<img src="./image.png" width="200" align="right" alt="Akshat Thakur">
-
+<p align="center">
+  <img src="./lights.svg" width="100%" alt="">
+</p>
+<img
+  src="./image.png"
+  width="280"
+  align="right"
+  alt="Akshat Thakur">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./name-dark.svg">
-  <img src="./name.svg" width="430" alt="Akshat Thakur">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./name-dark.svg"
+  >
+  <img
+    src="./name.svg"
+    width="430"
+    alt="Akshat Thakur"
+  >
 </picture>
-
-**Software Developer**
-Curious by default. Practical by design.
-
-[<img src="./visit.svg" width="110" alt="akshatt.in">](https://akshatt.in)
-&nbsp;
-[LinkedIn](https://www.linkedin.com/in/akshatthakur22/)
+<br>
+<strong>Software Developer</strong>
+<br>
+<sub>Curious by default. Practical by design.</sub>
+<br><br>
+<a href="https://akshatt.in">
+  <img src="./visit.svg" width="100" alt="akshatt.in">
+</a> 
+<br>
+<a href="https://www.linkedin.com/in/akshatthakur22/">LinkedIn</a>
 &nbsp;·&nbsp;
-[GitHub](https://github.com/Akshatthakur22)
+<a href="https://github.com/Akshatthakur22">GitHub</a>
 &nbsp;·&nbsp;
-[Email](mailto:akshatthakur22@gmail.com)
+<a href="mailto:akshatthakur22@gmail.com">Email</a>
 
 <br clear="right">
-
+<br>
 <p>
   I build software by turning real-world problems into useful products.
   I learn by building: trying things, breaking them, and figuring out how the pieces fit together.
