@@ -10,7 +10,7 @@
 </div>
 
 <div style="display:flex;align-items:center;gap:12px;margin:0 0 16px 0">
-  <a href="https://akshatt.in" style="display:inline-block"><img src="visit.svg" width="110" height="28" alt="akshatt.in" style="display:block"></a>
+  <a href="https://akshatt.in" style="display:inline-block"><img src="visit.svg" width="110" height="26" alt="akshatt.in" style="display:block"></a>
   <span style="font-size:13px;color:#666">·</span>
   <a href="https://www.linkedin.com/in/akshatthakur22/" style="font-size:13px;text-decoration:none">LinkedIn</a>
   <span style="font-size:13px;color:#666">·</span>
