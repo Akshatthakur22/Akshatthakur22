@@ -11,7 +11,7 @@
 Curious by default. Practical by design.
 
 [<img src="./visit.svg" width="110" alt="akshatt.in">](https://akshatt.in)
-&nbsp;·&nbsp;
+&nbsp;
 [LinkedIn](https://www.linkedin.com/in/akshatthakur22/)
 &nbsp;·&nbsp;
 [GitHub](https://github.com/Akshatthakur22)
