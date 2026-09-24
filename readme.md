@@ -1,58 +1,26 @@
-<div align="center">
+<!-- Optional: delete the <img> in the heading below to remove the avatar -->
+<h1><img src="https://github.com/Akshatthakur22.png?size=96" width="48" height="48" align="absmiddle" alt=""> Akshat Thakur</h1>
 
-<!-- Optional: delete the <img> line below to remove the profile image -->
-<img src="https://github.com/Akshatthakur22.png?size=240" width="112" height="112" alt="Akshat Thakur">
+<p>Software Developer<br>
+<b>Curious by default. Practical&nbsp;by&nbsp;design.</b><br>
+<a href="https://akshatt.in"><b>akshatt.in →</b></a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/akshatthakur22/">LinkedIn</a> &nbsp;·&nbsp; <a href="https://github.com/Akshatthakur22">GitHub</a> &nbsp;·&nbsp; <a href="mailto:akshatthakur22@gmail.com">Email</a></p>
 
-<h1 align="center">Akshat Thakur<br><sub><sub>Software Developer</sub></sub></h1>
-
-<h3 align="center">Curious by default. Practical&nbsp;by&nbsp;design.</h3>
-
-<p align="center"><a href="https://akshatt.in"><b>akshatt.in →</b></a></p>
-
-<p align="center"><a href="https://www.linkedin.com/in/akshatthakur22/">LinkedIn</a> &nbsp;·&nbsp; <a href="https://github.com/Akshatthakur22">GitHub</a> &nbsp;·&nbsp; <a href="mailto:akshatthakur22@gmail.com">Email</a></p>
-
-<br>
-
-<h4 align="center">About</h4>
-
-<p align="center">I build software by turning real-world problems into&nbsp;useful&nbsp;products.<br>I learn by building: trying things, breaking them, and figuring out how the&nbsp;pieces&nbsp;fit&nbsp;together.</p>
-
-<br>
-
-<h4 align="center">What I care about</h4>
+<p>I build software by turning real-world problems into useful products. I learn by building: trying things, breaking them, and figuring out how the pieces fit&nbsp;together.</p>
 
 <table>
   <tr>
-    <td align="center" valign="top" width="50%"><b>Simplicity</b><br>Fewer moving parts, fewer ways to&nbsp;fail.</td>
-    <td align="center" valign="top" width="50%"><b>Craftsmanship</b><br>The details nobody notices are the ones worth getting&nbsp;right.</td>
+    <td colspan="2" valign="top"><b>Simplicity</b><br><small>Fewer moving parts, fewer ways to fail.</small></td>
+    <td colspan="2" valign="top"><b>Craftsmanship</b><br><small>The details nobody notices are the ones worth getting right.</small></td>
+    <td colspan="2" valign="top"><b>Product thinking</b><br><small>Start with the person and the problem, not the stack.</small></td>
   </tr>
   <tr>
-    <td align="center" valign="top" width="50%"><b>Product thinking</b><br>Start with the person and the problem, not the&nbsp;stack.</td>
-    <td align="center" valign="top" width="50%"><b>Systems</b><br>I want to know how it works, and what happens when it&nbsp;breaks.</td>
+    <td colspan="3" valign="top"><b>Systems</b><br><small>I want to know how it works, and what happens when it breaks.</small></td>
+    <td colspan="3" valign="top"><b>Human-first software</b><br><small>Software should adapt to people, not the other way around.</small></td>
   </tr>
   <tr>
-    <td align="center" valign="top" colspan="2"><b>Human-first software</b><br>Software should adapt to people, not the other way&nbsp;around.</td>
+    <td colspan="3" valign="top"><b>Beyond code</b><br><small><b>Google</b> Student Ambassador<br><b>GFG Student Chapter</b> Technical Head<br><b>ICSEE 2024</b> Presenter</small></td>
+    <td colspan="3" valign="top"><b>Tools</b><br><small>Python · TypeScript · JavaScript · React<br>Next.js · Node.js · PostgreSQL<br>MongoDB · Rust · Docker</small></td>
   </tr>
 </table>
 
-<br>
-
-<h4 align="center">Beyond code</h4>
-
-<table>
-  <tr><td align="center"><b>Google</b> Student Ambassador</td></tr>
-  <tr><td align="center"><b>GFG Student Chapter</b> Technical Head</td></tr>
-  <tr><td align="center"><b>ICSEE 2024</b> Presenter</td></tr>
-</table>
-
-<br>
-
-<h4 align="center">Tools</h4>
-
-<p align="center"><small>Python · TypeScript · JavaScript · React · Next.js<br>Node.js · PostgreSQL · MongoDB · Rust · Docker</small></p>
-
-<br>
-
-<p align="center"><i>Understand the problem.<br>Build the simplest thing that works.<br>Then keep it working.</i></p>
-
-</div>
+<p><i>Understand the problem. Build the simplest thing that works. Then keep it&nbsp;working.</i></p>
