@@ -1,28 +1,21 @@
 <!-- HERO -->
 
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-  <tr>
-    <td width="62%" valign="middle">
-      <h1>Akshat Thakur</h1>
-      <p>
-        <b>Software Developer</b><br>
-        <b>Curious by default. Practical by design.</b>
-      </p>
-      <p>
-        <a href="https://akshatt.in"><img src="visit.svg" width="112" alt="akshatt.in"></a>
-        &nbsp;·&nbsp;
-        <a href="https://www.linkedin.com/in/akshatthakur22/">LinkedIn</a>
-        &nbsp;·&nbsp;
-        <a href="https://github.com/Akshatthakur22">GitHub</a>
-        &nbsp;·&nbsp;
-        <a href="mailto:akshatthakur22@gmail.com">Email</a>
-      </p>
-    </td>
-    <td width="38%" align="right" valign="middle">
-      <img src="./image.png" width="180" alt="Akshat Thakur">
-    </td>
-  </tr>
-</table>
+<img src="./image.png" width="200" align="right" alt="Akshat Thakur">
+
+# Akshat Thakur
+
+**Software Developer**
+Curious by default. Practical by design.
+
+[![akshatt.in](https://img.shields.io/badge/akshatt.in-→-2f6feb?style=for-the-badge&logoColor=white)](https://akshatt.in)
+&nbsp;·&nbsp;
+[LinkedIn](https://www.linkedin.com/in/akshatthakur22/)
+&nbsp;·&nbsp;
+[GitHub](https://github.com/Akshatthakur22)
+&nbsp;·&nbsp;
+[Email](mailto:akshatthakur22@gmail.com)
+
+<br clear="right">
 
 <p>
   I build software by turning real-world problems into useful products.
