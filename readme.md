@@ -1,6 +1,6 @@
 <!-- HERO -->
 
-<p align="center" style="height: 120 px; overflow: hidden;">
+<p align="center" style="height: 180 px; overflow: hidden;">
   <img src="./lights.svg" width="100%" alt="">
 </p>
 <img
