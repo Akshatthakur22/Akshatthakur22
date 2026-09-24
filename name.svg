@@ -2,26 +2,45 @@
   <defs>
     <style>
       @media (prefers-color-scheme: dark) {
-        #nameText {
-          fill: #e6edf3 !important;
-        }
+        .name-text-dark { display: block; }
+        .name-text-light { display: none; }
       }
       
       @media (prefers-color-scheme: light) {
-        #nameText {
-          fill: #24292f !important;
-        }
+        .name-text-dark { display: none; }
+        .name-text-light { display: block; }
       }
     </style>
+    <filter id="outline">
+      <feMerge>
+        <feMergeNode in="SourceGraphic"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
   </defs>
+  
+  <!-- Light mode text (dark/black) -->
   <text
-    id="nameText"
+    class="name-text-light"
     x="0"
     y="45"
     font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif"
     font-size="40"
     font-weight="700"
     fill="#24292f">
+    Akshat Thakur
+  </text>
+  
+  <!-- Dark mode text (light/white with subtle outline for visibility) -->
+  <text
+    class="name-text-dark"
+    x="0"
+    y="45"
+    font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif"
+    font-size="40"
+    font-weight="700"
+    fill="#ffffff"
+    filter="url(#outline)">
     Akshat Thakur
   </text>
 </svg>
