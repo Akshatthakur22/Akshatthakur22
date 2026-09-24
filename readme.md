@@ -11,26 +11,26 @@
       <h1 style="margin:0 0 8px 0;font-size:52px;font-weight:700;line-height:1.1;color:#000">Akshat Thakur</h1>
       <p style="margin:0 0 4px 0;font-size:18px;color:#666;font-weight:400">Software Developer</p>
       <p style="margin:0 0 20px 0;font-size:16px;color:#333;font-weight:500">Curious by default. Practical by design.</p>
-      
-      <!-- Primary CTA + secondary links -->
-      <div style="display:flex;align-items:center;gap:16px;margin-bottom:20px;flex-wrap:wrap">
-        <a href="https://akshatt.in" style="display:inline-block;text-decoration:none;border-radius:10px;overflow:hidden">
-          <img src="assets/cta.svg" alt="akshatt.in" width="140" height="36" style="display:block">
-        </a>
-        <div style="font-size:13px;color:#666;display:flex;gap:10px">
+      <div style="margin-bottom:24px">
+        <div style="margin-bottom:12px">
+          <a href="https://akshatt.in" style="display:inline-block;text-decoration:none;border-radius:10px;overflow:hidden">
+            <img src="assets/cta.svg" alt="akshatt.in" width="140" height="36" style="display:block">
+          </a>
+        </div>
+        <div style="font-size:13px;color:#666">
           <a href="https://www.linkedin.com/in/akshatthakur22/" style="color:#0071E3;text-decoration:none">LinkedIn</a>
-          <span>·</span>
+          <span style="margin:0 6px">·</span>
           <a href="https://github.com/Akshatthakur22" style="color:#0071E3;text-decoration:none">GitHub</a>
-          <span>·</span>
+          <span style="margin:0 6px">·</span>
           <a href="mailto:akshatthakur22@gmail.com" style="color:#0071E3;text-decoration:none">Email</a>
         </div>
       </div>
     </td>
-    <td style="width:35%;padding:0;vertical-align:middle;text-align:right">
+    <td style="width:35%;padding:0 0 0 24px;vertical-align:middle;text-align:right">
       <!-- Portrait (right) with warm background -->
-      <div style="position:relative;display:inline-block;width:160px">
-        <img src="assets/portrait-bg.svg" alt="" width="160" height="160" style="position:absolute;top:0;left:0;opacity:0.7">
-        <img src="/image.png" alt="Akshat Thakur" width="160" height="160" style="position:relative;border-radius:20px;display:block">
+      <div style="position:relative;display:inline-block;width:160px;height:160px">
+        <img src="assets/portrait-bg.svg" alt="" width="160" height="160" style="position:absolute;top:0;left:0;display:block">
+        <img src="https://github.com/Akshatthakur22.png?size=160" alt="Akshat Thakur" width="160" height="160" style="position:relative;z-index:1;border-radius:16px;display:block;background:#fff">
       </div>
     </td>
   </tr>
