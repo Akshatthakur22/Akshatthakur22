@@ -2,7 +2,10 @@
 
 <img src="./image.png" width="200" align="right" alt="Akshat Thakur">
 
-<img src="./name.svg" width="430" alt="Akshat Thakur">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='430' height='60'%3E%3Ctext x='0' y='45' font-family='-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif' font-size='40' font-weight='700' fill='%23ffffff'%3EAkshat Thakur%3C/text%3E%3C/svg%3E">
+  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='430' height='60'%3E%3Ctext x='0' y='45' font-family='-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif' font-size='40' font-weight='700' fill='%2324292f'%3EAkshat Thakur%3C/text%3E%3C/svg%3E" width="430" alt="Akshat Thakur">
+</picture>
 
 **Software Developer**
 Curious by default. Practical by design.
