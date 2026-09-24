@@ -3,13 +3,13 @@
     <style>
       @media (prefers-color-scheme: dark) {
         #nameText {
-          fill: #e6edf3;
+          fill: #e6edf3 !important;
         }
       }
       
       @media (prefers-color-scheme: light) {
         #nameText {
-          fill: #24292f;
+          fill: #24292f !important;
         }
       }
     </style>
@@ -24,33 +24,4 @@
     fill="#24292f">
     Akshat Thakur
   </text>
-  
-  <script type="text/javascript">
-    <![CDATA[
-    function updateTextColor() {
-      const now = new Date();
-      const hour = now.getHours();
-      const textElement = document.getElementById('nameText');
-      
-      // Day time: 6 AM to 6 PM (black text)
-      // Night time: 6 PM to 6 AM (white text)
-      if (hour >= 6 && hour < 18) {
-        textElement.style.fill = '#24292f'; // Black for day
-      } else {
-        textElement.style.fill = '#e6edf3'; // White for night
-      }
-    }
-    
-    // Update color on load
-    updateTextColor();
-    
-    // Update color every minute to reflect time changes
-    setInterval(updateTextColor, 60000);
-    
-    // Also check for dark mode preference changes
-    if (window.matchMedia) {
-      window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', updateTextColor);
-    }
-    ]]>
-  </script>
 </svg>
