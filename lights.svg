@@ -1,0 +1,203 @@
+<svg
+  width="1200"
+  height="150"
+  viewBox="0 0 1200 150"
+  xmlns="http://www.w3.org/2000/svg"
+>
+
+  <!-- wire -->
+
+  <path
+    d="M0 30
+       C180 125 330 125 510 75
+       C700 20 870 20 1200 80"
+    fill="none"
+    stroke="#222"
+    stroke-width="3"
+  />
+
+  <!-- bulb 1 -->
+
+  <g transform="translate(110 72)">
+    <line
+      x1="0"
+      y1="-30"
+      x2="0"
+      y2="0"
+      stroke="#222"
+      stroke-width="3"
+    />
+
+    <rect
+      x="-8"
+      y="-2"
+      width="16"
+      height="9"
+      rx="2"
+      fill="#222"
+    />
+
+    <path
+      d="M-8 7
+         C-11 20 -9 30 0 35
+         C9 30 11 20 8 7Z"
+      fill="#FFC857"
+    />
+
+    <circle
+      cx="0"
+      cy="20"
+      r="4"
+      fill="#FFF1B8"
+    />
+  </g>
+
+
+  <!-- bulb 2 -->
+
+  <g transform="translate(340 110)">
+    <line
+      x1="0"
+      y1="-35"
+      x2="0"
+      y2="0"
+      stroke="#222"
+      stroke-width="3"
+    />
+
+    <rect
+      x="-8"
+      y="-2"
+      width="16"
+      height="9"
+      rx="2"
+      fill="#222"
+    />
+
+    <path
+      d="M-8 7
+         C-11 20 -9 30 0 35
+         C9 30 11 20 8 7Z"
+      fill="#FFC857"
+    />
+
+    <circle
+      cx="0"
+      cy="20"
+      r="4"
+      fill="#FFF1B8"
+    />
+  </g>
+
+
+  <!-- bulb 3 -->
+
+  <g transform="translate(590 92)">
+    <line
+      x1="0"
+      y1="-30"
+      x2="0"
+      y2="0"
+      stroke="#222"
+      stroke-width="3"
+    />
+
+    <rect
+      x="-8"
+      y="-2"
+      width="16"
+      height="9"
+      rx="2"
+      fill="#222"
+    />
+
+    <path
+      d="M-8 7
+         C-11 20 -9 30 0 35
+         C9 30 11 20 8 7Z"
+      fill="#FFC857"
+    />
+
+    <circle
+      cx="0"
+      cy="20"
+      r="4"
+      fill="#FFF1B8"
+    />
+  </g>
+
+
+  <!-- bulb 4 -->
+
+  <g transform="translate(850 70)">
+    <line
+      x1="0"
+      y1="-30"
+      x2="0"
+      y2="0"
+      stroke="#222"
+      stroke-width="3"
+    />
+
+    <rect
+      x="-8"
+      y="-2"
+      width="16"
+      height="9"
+      rx="2"
+      fill="#222"
+    />
+
+    <path
+      d="M-8 7
+         C-11 20 -9 30 0 35
+         C9 30 11 20 8 7Z"
+      fill="#FFC857"
+    />
+
+    <circle
+      cx="0"
+      cy="20"
+      r="4"
+      fill="#FFF1B8"
+    />
+  </g>
+
+
+  <!-- bulb 5 -->
+
+  <g transform="translate(1080 100)">
+    <line
+      x1="0"
+      y1="-35"
+      x2="0"
+      y2="0"
+      stroke="#222"
+      stroke-width="3"
+    />
+
+    <rect
+      x="-8"
+      y="-2"
+      width="16"
+      height="9"
+      rx="2"
+      fill="#222"
+    />
+
+    <path
+      d="M-8 7
+         C-11 20 -9 30 0 35
+         C9 30 11 20 8 7Z"
+      fill="#FFC857"
+    />
+
+    <circle
+      cx="0"
+      cy="20"
+      r="4"
+      fill="#FFF1B8"
+    />
+  </g>
+
+</svg>
