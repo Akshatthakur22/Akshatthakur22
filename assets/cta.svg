@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="36" viewBox="0 0 140 36" role="img" aria-label="akshatt.in">
+  <defs>
+    <linearGradient id="cta-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0084FF"/>
+      <stop offset="100%" style="stop-color:#007AFF"/>
+    </linearGradient>
+  </defs>
+  <rect width="140" height="36" rx="10" fill="url(#cta-gradient)" />
+  <text x="18" y="23" font-family="system-ui, -apple-system, sans-serif" font-size="15" font-weight="600" fill="#FFFFFF" letter-spacing="-0.3">
+    akshatt.in
+  </text>
+  <path d="M 108 18 L 115 18 M 112.5 14.5 L 115 18 L 112.5 21.5" 
+        stroke="#FFFFFF" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
