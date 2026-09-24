@@ -2,7 +2,7 @@
 
 <img src="./image.png" width="200" align="right" alt="Akshat Thakur">
 
-# Akshat Thakur
+<p><strong style="font-size: 36px;">Akshat Thakur</strong></p>
 
 **Software Developer**
 Curious by default. Practical by design.
