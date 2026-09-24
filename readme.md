@@ -10,7 +10,7 @@
 **Software Developer**
 Curious by default. Practical by design.
 
-[![akshatt.in](https://img.shields.io/badge/akshatt.in-→-2f6feb?style=for-the-badge&logoColor=white)](https://akshatt.in)
+[<img src="./visit.svg" width="110" alt="akshatt.in">](https://akshatt.in)
 &nbsp;·&nbsp;
 [LinkedIn](https://www.linkedin.com/in/akshatthakur22/)
 &nbsp;·&nbsp;
